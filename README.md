@@ -1,6 +1,6 @@
 # Moving
 
-We're moving this repository into the monorepo at rollup/plugin. Please stand by...
+We have moved this repository into the monorepo at [rollup/plugins](https://github.com/rollup/plugins/tree/master/packages/pluginutils).
 
 # rollup-pluginutils
 
